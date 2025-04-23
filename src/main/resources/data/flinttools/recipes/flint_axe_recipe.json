@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "flinttools:grass_fiber"
+    },
+    "1": {
+      "item": "flinttools:flint_pieces"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "flinttools:grass_fiber"
+    }
+  },
+  "result": {
+    "item": "flinttools:flint_axe",
+    "count": 1
+  }
+}
