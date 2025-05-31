@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "derp.flinttools",
+  "package": "derp.flinttools.mixin",
   "refmap": "flinttoolsreworked.refmap.json",
   "compatibilityLevel": "JAVA_17",
   "mixins": [

@@ -28,7 +28,6 @@ public class FlintToolsTabs {
                                 output.accept(FlintToolsItems.FLINT_PIECES.get());
                                 output.accept(FlintToolsItems.GRASS_PIECES.get());
                                 output.accept(FlintToolsItems.GRASS_FIBER.get());
-                                // Add other mod items here
                             })
                             .build()
             );

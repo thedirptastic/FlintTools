@@ -12,7 +12,7 @@ public class FlintToolsItems {
     public static final RegistryObject<Item> FLINT_KNIFE = REGISTRY.register("flint_knife", FlintKnifeItem::new);
     public static final RegistryObject<Item> FLINT_PICKAXE = REGISTRY.register("flint_pickaxe", FlintPickaxeItem::new);
     public static final RegistryObject<Item> FLINT_AXE = REGISTRY.register("flint_axe", FlintAxeItem::new);
-    public static final RegistryObject<Item> FLINT_PIECES = REGISTRY.register("flint_pieces", FlintPiecesItem::new);
-    public static final RegistryObject<Item> GRASS_PIECES = REGISTRY.register("grass_pieces", GrassPiecesItem::new);
-    public static final RegistryObject<Item> GRASS_FIBER = REGISTRY.register("grass_fiber", GrassFiberItem::new);
+    public static final RegistryObject<Item> FLINT_PIECES = REGISTRY.register("flint_pieces", CustomItem::new);
+    public static final RegistryObject<Item> GRASS_PIECES = REGISTRY.register("grass_pieces", CustomItem::new);
+    public static final RegistryObject<Item> GRASS_FIBER = REGISTRY.register("grass_fiber", CustomItem::new);
 }
